@@ -1,0 +1,78 @@
+
+Input Values:
+WholAm = "information company"
+WhatWeDo = "We provided information"
+ OurTargetMarket = "india"
+ MyICP="student"
+ MyKeyword = "Civil Service Exam Syllabus"
+Name of my Organization="jobbaba"
+My Official website Website = "jobbaba.online"
+ Prompt:
+Input Values:
+WholAm="information company"
+WhatWeDo = "we provided information "
+Our TargetMarket = "india"
+MyICP="Sarkari preperation student"
+Keywordidea = "Understanding Exam Syllabus"
+KeywordSearchIntent = "information intent"
+Challenge TheStatusQuo = "Provide simplified explanations"
+OfferNewPerspective = "Highlight importance of understanding syllabus"
+Name of my Organization = "jobbaba"
+My Official website Website = "jobbaba.onile"
+
+
+Input Values:
+WholAm="we are sarkarijob information for people"
+WhatWeDo="we are sarkarijob information for people"
+Our TargetMarket = "india"
+MyICP="sarkari student"
+MyKeyword = "Importance of Positive Mindset & Attitude in UPSC CSE Preparation "
+Name of my Organization = "jobbaba"
+My Official website Website= "https://jobbaba.online/"
+Note-Act as my Seo keword research manager
+You wil be including the keword but alsp making sure the article adds value to the reader.Also,remember to like ahuman it should NOT sound like AI generated content
+
+
+
+1) Objective:
+Utilize the above input values to generate and organize keyword ideas related to MyKeyword into specific groups based on their search intents. These groups are Informational Navigational, Commercial Investigation, Transactional, Educational, and Local (if applicable). Each keyword idea should cater to the Our Target Market and align with the interests of companies that fit the MyICP profile, in the context of the services described in WhatWeDo
+2) Detailed Requirements for Keyword Ideas:
+2.1) Format: Organize the keyword ideas into groups based on search intents. Each group should be presented in a structured table.
+3) Columns for Each Table: The tables should include the following information for each keyword idea:
+3.1) Sr No: A sequential number.
+
+3.2) Keyword Idea: A keyword idea that is relevant to MyKeyword and the specific search intent.
+ 3.3) Google Keyword; What would be ideal keyword that users would serach on google for this topic
+3.4) Partent Topic: A Partent topic of that Keyword 3.6) Challenge the Status Quo: Insights on how this keyword challenges existing norms within Our TargetMarket.
+ 3.7) Offer New Perspective: Ideas on presenting content from a new angle, especially in relation to MyICP
+3.8) Ideas for UGC Focus: Suggestions to make content more unique and focused on User Generated Content (UGC).
+3.9) Verticalize: Explanation on how to specialize this keyword within the realm of WhatWeDo, with rationale.
+ 4) Execution Strategy:
+4.1) Begin with a thorough analysis of MyKeyword to identify relevant keyword ideas.
+4.2) Categorize these keyword ideas into the specified search intent groups: Informational Navigational, Commercial Investigation, Transactional, Educational, and Local (if applicable).
+4.3) For each group, develop a strategy that aligns with the WholAm identity, aiming to improve SEO and digital marketing outcomes for MyICP in OurTargetMarket through engaging and specialized content that resonates with MyICP.
+4.4) Make sure you do not reset serial number when you change the group.
+
+ Act as my Seo keword research manager
+You wil be including the keword but alsp making sure the article adds value to the reader.Also,remember to like ahuman it should NOT sound like AI generated content
+
+
+
+
+
+
+
+
+1. Objective:
+Employ the inputs to develop a content outline that encapsulates the WholAm identity concerning the Keywordideator Google's KeywordSearchIntent search intent.
+2. This outline should:
+2.1) Embrace the core mission of our company that delivers WhatWeDo
+2.2) Be meticulously tailored for our target audience within Our TargetMarket.
+2.3) Cater to the interests of companies that match the MyICP profile, within the context of the
+services we offer.
+2.4) Integrate content from input values related to Challenge TheStatusQuo and OfferNewPerspective to ensure the content is both innovative and forward-thinking.
+3.Generate LSI and NP Keywords list related to above.
+
+
+
+

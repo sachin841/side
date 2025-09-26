@@ -1,0 +1,35 @@
+
+Input Values:
+WholAm="Home Service"
+WhatWeDo="We are your premier destination for all your home service needs! We are India's fastest-growing network of on-demand home service providers, offering a wide range of services including electrical, plumbing, carpentry, appliance repair, home cleaning, pest control, car washing, and more, all delivered at affordable prices and with utmost efficiency."
+Our TargetMarket = "India"
+MyICP="Plumbing"
+MyKeyword = "Plumbing"
+Name of my Organization = "LabsMedia"
+My Official website Website= "https://kaamhub.com/"
+1) Objective:
+Utilize the above input values to generate and organize keyword ideas related to MyKeyword into specific groups based on their search intents. These groups are Informational Navigational, Commercial Investigation, Transactional, Educational, and Local (if applicable). Each keyword idea should cater to the Our Target Market and align with the interests of companies that fit the MyICP profile, in the context of the services described in WhatWeDo
+2) Detailed Requirements for Keyword Ideas:
+2.1) Format: Organize the keyword ideas into groups based on search intents. Each group should be presented in a structured table.
+3) Columns for Each Table: The tables should include the following information for each keyword idea:
+3.1) Sr No: A sequential number.
+
+3.2) Keyword Idea: A keyword idea that is relevant to MyKeyword and the specific search intent.
+ 3.3) Google Keyword; What would be ideal keyword that users would serach on google for this topic
+3.4) Partent Topic: A Partent topic of that Keyword 3.6) Challenge the Status Quo: Insights on how this keyword challenges existing norms within Our TargetMarket.
+ 3.7) Offer New Perspective: Ideas on presenting content from a new angle, especially in relation to MyICP
+3.8) Ideas for UGC Focus: Suggestions to make content more unique and focused on User Generated Content (UGC).
+3.9) Verticalize: Explanation on how to specialize this keyword within the realm of WhatWeDo, with rationale.
+ 4) Execution Strategy:
+4.1) Begin with a thorough analysis of MyKeyword to identify relevant keyword ideas.
+4.2) Categorize these keyword ideas into the specified search intent groups: Informational Navigational, Commercial Investigation, Transactional, Educational, and Local (if applicable).
+4.3) For each group, develop a strategy that aligns with the WholAm identity, aiming to improve SEO and digital marketing outcomes for MyICP in OurTargetMarket through engaging and specialized content that resonates with MyICP.
+4.4) Make sure you do not reset serial number when you change the group.
+
+
+
+
+
+
+
+

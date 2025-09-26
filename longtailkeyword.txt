@@ -1,0 +1,12 @@
+Give me 30 variations of TOPIC that address a different search intent.
+Include keywords + English translation. Include the topic as a column in the table too, in
+column B (the topic mentioned above).
+Reduce each to 3-5 word length keywords
+Column A number. Title this Column as "SrNo"
+Column B the topic below (should be same each time). The topic should remain the
+same in each row. Title this Column as "Topic"
+Column C the variations. Title this Column as "Variations"
+Column D The english translation (if applicable). Title this Column as "English Translation"
+No other columns/don't create a column E
+No code
+TOPIC="Monthly Payment"

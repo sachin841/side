@@ -1,0 +1,37 @@
+HEADER
+ ├ Logo + blog name
+ ├ Navigation menu (Home, Categories, About, Contact, etc.)
+ └ Maybe a CTA button (e.g. “Subscribe”)
+
+HERO / Featured Section
+ ├ Big featured post or slider showcasing top article(s)
+ └ Some short intro / tagline
+
+MAIN CONTENT (on homepage)
+ ├ Grid or list of blog post cards (image + title + excerpt)
+ └ Optional “Latest” section / categories section
+
+SIDEBAR (optional / or footer)  
+ ├ Search bar  
+ ├ Recent posts  
+ ├ Popular posts  
+ ├ Categories / tags  
+ ├ Email subscribe / opt-in box  
+ ├ Social links  
+
+POST PAGE (single article)
+ ├ Title  
+ ├ Author / date  
+ ├ Image / featured image  
+ ├ Table of Contents (for long articles) — sticky or visible  
+ ├ Content (headings, images, bullets)  
+ ├ CTA inside or at end (subscribe, related posts)  
+ ├ Comments or feedback section  
+ ├ Related posts  
+
+FOOTER  
+ ├ Links (Privacy, About, Contact)  
+ ├ Social icons  
+ ├ Maybe newsletter signup  
+ ├ Copyright
+
