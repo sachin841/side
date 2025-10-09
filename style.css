@@ -242,6 +242,24 @@ header nav ul li a:hover {
     color: var(--secondary-color);
 }
 
+.category-section {
+    margin-bottom: 3rem;
+}
+
+.category-section h2 {
+    text-align: center;
+    color: var(--secondary-color);
+    margin-bottom: 2rem;
+    font-size: 2.2rem;
+    font-weight: 600;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 0.5rem;
+    display: inline-block;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+
 footer {
     background: var(--text-color);
     color: #fff;

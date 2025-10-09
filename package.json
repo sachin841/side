@@ -1,0 +1,15 @@
+{
+  "name": "sidehustle-image-downloader",
+  "version": "1.0.0",
+  "description": "A script to download images from Pexels.",
+  "main": "download.js",
+  "type": "module",
+  "scripts": {
+    "start": "node download.js"
+  },
+  "dependencies": {
+    "pexels": "^1.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
