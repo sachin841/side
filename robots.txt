@@ -1,4 +1,3 @@
-# update on oct 3,2025
 User-agent: *
 Allow: /
-Sitemap: https://sidehustle.com/sitemap.xml
+Sitemap: http://sidehustlehub.in/sitemap.xml
